@@ -4,9 +4,9 @@ Date: March 14-15 2020
 Team members: Chloe Quijano (me), Chloe Shin-Gay, Logan Kieller, Emily Jee
 
 ## Technologies
-Python 3.7
-IDE: Atom
-Google News Library
+- Python 3.7
+- IDE: Atom
+- Google News Library
 
 ## Table of Contents
 * [Overview](#Overview)
