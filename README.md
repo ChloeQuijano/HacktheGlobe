@@ -9,11 +9,11 @@ IDE: Atom
 Google News Library
 
 ## Table of Contents
-* [Overview] (#Overview)
-* [Hackathon Challenge] (#Hackathon Challenge)
-* [Process] (#Process)
-* [Final Thoughts] (#Final-Thoughts)
-* [Conclusion] (#Conclusion)
+* [Overview](#Overview)
+* [Hackathon Challenge](#Hackathon-Challenge)
+* [Process](#Process)
+* [Final Thoughts](#Final-Thoughts)
+* [Conclusion](#Conclusion)
 
 ## Overview
 This was my first hackathon and it was a good experience to practice my skills in python programming. We focused on tacklng Crisis Response and found a solution in this category. Our solution was ClarityCare which was a platform that helped in organizing the funds that people had to the charities they were interested in by using a personality survey and matched the person's interest with the charities that had similar goals. We made it to the finals but did not win. 
